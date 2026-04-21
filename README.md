@@ -1,4 +1,3 @@
-[Uploading app.html…]()
 <!DOCTYPE html>
 <html lang="en">
 <head>
